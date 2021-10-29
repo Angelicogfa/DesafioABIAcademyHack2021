@@ -63,6 +63,19 @@ Como entrega, nesse primeiro MVP, foi disponibilizado uma API que fara o recebim
     * python -m spacy download pt_core_news_lg
     * wordcloud
 
+#### Configurando o ambiente
+
+Rodar o seguinte comando, após a instalação do `python 3.x`
+```
+pip install -r requirements.txt
+```
+
+#### Configurando o ambiente para o scraping
+
+Para rodar o notebook 02-Scraping é necessário fazer o download da versão do chrome webdriver no site: https://chromedriver.chromium.org/downloads
+
+Após o download o drive deverá ser salvo no seguinte diretorio `C:\drive\chromedriver.exe`. Caso o diretorio for outro, será necessário alterar o notebook.
+
 #### Testando API
 
 Para executar o projeto é necessário ter o ambiente configurado com Docker e rodar o seguinte comando no diretório `Desafio/api`
@@ -122,3 +135,9 @@ Exemplo do response:
     ]
 }
 ```
+
+## Time
+
+* [Guilherme Fernando Angelico](https://github.com/Angelicogfa)
+
+* [Douglas Machado](https://taikai.network/br/douglas-mad)
