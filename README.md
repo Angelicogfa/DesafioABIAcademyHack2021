@@ -66,20 +66,26 @@ Exemplo do response:
     "message": "ok",
     "predict": [
         {
-            "Id": 16519,
+            "Id": 62706,
             "Submarca": NaN,
             "Litros": 0.0,
             "Segmento": NaN,
-            "PercentualAlcoolico": 4.6
+            "PercentualAlcoolico": 6.600000000000001
         },
         {
-            "Id": 29777,
+            "Id": 62707,
             "Submarca": NaN,
             "Litros": 0.0,
             "Segmento": NaN,
-            "PercentualAlcoolico": 5.0
+            "PercentualAlcoolico": 6.600000000000001
+        },
+        {
+            "Id": 58277,
+            "Submarca": "LEFFE BLONDE",
+            "Litros": 0.25,
+            "Segmento": "PREMIUM",
+            "PercentualAlcoolico": 0.0
         }
-    ],
-    "page": 2
+    ]
 }
 ```
