@@ -3,4 +3,4 @@ flask-restful
 pandas
 numpy
 sklearn
-pickle
+pickle-mixin
