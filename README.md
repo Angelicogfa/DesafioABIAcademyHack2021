@@ -1,5 +1,9 @@
 # Recomendação de produtos para pontos de vendas
 
+## PPT da apresentação
+
+[ApresentaçãoABI](ApresentaçãoABI.pptx)
+
 ## Visão Geral
 
 Criar um sistema de recomendação que ajude a companhia a oferecer novos produtos aos PDVs com base na similaridade do perfil do estabelecimento ou no consumo comparado à outros com perfis semelhantes
@@ -113,16 +117,16 @@ Exemplo do response:
     "predict": [
         {
             "Id": 62706,
-            "Submarca": NaN,
+            "Submarca": null,
             "Litros": 0.0,
-            "Segmento": NaN,
+            "Segmento": null,
             "PercentualAlcoolico": 6.600000000000001
         },
         {
             "Id": 62707,
-            "Submarca": NaN,
+            "Submarca": null,
             "Litros": 0.0,
-            "Segmento": NaN,
+            "Segmento": null,
             "PercentualAlcoolico": 6.600000000000001
         },
         {
